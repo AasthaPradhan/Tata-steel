@@ -1,11 +1,11 @@
-echo "# Tata-steel" >> README.md
+echo "# TATASTEELLTD" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/AasthaPradhan/Tata-steel.git
+git remote add origin https://github.com/AasthaPradhan/TATASTEELLTD.git
 git push -u origin main
 
-git remote add origin https://github.com/AasthaPradhan/Tata-steel.git
+git remote add origin https://github.com/AasthaPradhan/TATASTEELLTD.git
 git branch -M main
 git push -u origin main
